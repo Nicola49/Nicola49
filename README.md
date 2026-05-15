@@ -6,5 +6,5 @@
 - 💬 Me contate no meu email ou número para qualquer propósta ou dúvidas.
 
 <div>
-  <img src="{https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css}" />
+  <img src="{"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"}" />
 </div>
