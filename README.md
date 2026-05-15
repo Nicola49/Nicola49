@@ -4,7 +4,7 @@
 - 🌱 Estou estudando HTML e CSS.
 - 📖 Faço Engenharia de Software na CEUNSP (1/8)
 - 👯 Estou disponível para trabalhos freelance e CLT.
-- 💬 Me contate no meu email ou número para qualquer propósta ou dúvidas.
+- 💬 Me contate no meu email para qualquer propósta ou dúvidas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
