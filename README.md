@@ -2,6 +2,7 @@
 
 - 🔭 Trabalho atualmente com Automções em Python.
 - 🌱 Estou estudando HTML e CSS.
+- 📖 Faço Engenharia de Software na CEUNSP (1/8)
 - 👯 Estou disponível para trabalhos freelance e CLT.
 - 💬 Me contate no meu email ou número para qualquer propósta ou dúvidas.
 
